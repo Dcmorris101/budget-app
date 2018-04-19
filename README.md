@@ -6,3 +6,5 @@
 - See available budget
 - Remove an expense and see budget adjust dynamically
 - Remove an income and see budget adjust dynamically
+
+<a href="http://danielcmorris.com/budget-app/">DEMO</a>
